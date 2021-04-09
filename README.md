@@ -1,19 +1,21 @@
-### Seja Bem Vindo!
+# Hello passenger!
+
+i am a Jr web developper working at Lux Ti
 
 <!--
 **Danielvidal01/Danielvidal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
+<br/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=danielvidal01)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danielvidal015/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/danielvidal01/) -->
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvidal01&show_icons=true&theme=tokyonight)
+
+
+📫 How to reach me:
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danielvidal015/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/danielvidal01/) 
