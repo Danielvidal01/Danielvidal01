@@ -27,7 +27,7 @@ Here are some ideas to get you started:-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvidal01&show_icons=true&theme=tokyonight)
+<!-- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvidal01&show_icons=true&theme=tokyonight) -->
 
 
 📫 How to reach me:
