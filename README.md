@@ -12,6 +12,8 @@ i am a Jr web developper working at Lux Ti
 - MongoDB
 - PostgreSQL
 - MySQL
+
+** Learning typescript
  
 
 <!--
