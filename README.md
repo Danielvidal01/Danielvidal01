@@ -1,6 +1,18 @@
 # Hello passenger!
 
 i am a Jr web developper working at Lux Ti
+- Front-end Skills:
+  - Vue-Js 
+  - React-Js
+- Back-end Skills: 
+  - Node-Js
+    - express
+    - sequelize 
+    - mongoose
+- MongoDB
+- PostgreSQL
+- MySQL
+ 
 
 <!--
 **Danielvidal01/Danielvidal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
