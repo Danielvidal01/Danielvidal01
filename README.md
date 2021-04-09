@@ -1,6 +1,6 @@
 # Hello passenger!
 
-i am a Jr web developper working at Lux Ti
+i am a Jr web developer working at Lux Ti
 - Front-end Skills:
   - Vue-Js 
   - React-Js
