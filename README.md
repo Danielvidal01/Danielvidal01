@@ -13,8 +13,6 @@ i am a Jr web developer working at Lux Ti
 - PostgreSQL
 - MySQL
 
-** Learning typescript
- 
 
 <!--
 **Danielvidal01/Danielvidal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
