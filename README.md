@@ -1,6 +1,6 @@
 # Hello passenger!
 
-i am a Jr web developer working at Lux Ti
+i am a Full Stack Web Developer working at Deway
 - Front-end Skills:
   - Vue-Js 
   - React-Js
@@ -12,6 +12,7 @@ i am a Jr web developer working at Lux Ti
 - MongoDB
 - PostgreSQL
 - MySQL
+- dynamoDB
 
 
 <!--
