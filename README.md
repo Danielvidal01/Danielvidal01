@@ -1,19 +1,22 @@
 # Hello passenger!
 
 i am a Full Stack Web Developer working at Deway
-- Front-end Skills:
-  - Vue-Js 
-  - React-Js
+
 - Back-end Skills: 
   - Node-Js
     - express
     - sequelize 
     - mongoose
+  - Nest-JS
+    - typeORM
 - MongoDB
 - PostgreSQL
 - MySQL
 - dynamoDB
 
+- Front-end Skills:
+  - Vue-Js 
+  - React-Js
 
 <!--
 **Danielvidal01/Danielvidal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
