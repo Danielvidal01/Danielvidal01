@@ -1,7 +1,7 @@
 Hello Passenger 👋 My name is Daniel Bezerra Vidal
 ====================================
 
-i am a Full Stack Web Developer working at Deway
+i am a Full Stack Web Developer 
 ------------------------------------------------
 
 SI student, programming and technology enthusiast, absolutely passionate about solving puzzles.
