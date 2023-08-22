@@ -18,11 +18,15 @@ SI student, programming and technology enthusiast, absolutely passionate about s
     - GraphQl
   - Testing
     - Jest
+  - Golang
   - RabbitMQ
+  - Temporal.io
 - MongoDB
 - PostgreSQL
 - MySQL
 - dynamoDB
+- redis
+- BigQuery
 - Docker
 
 - Front-end Skills:
