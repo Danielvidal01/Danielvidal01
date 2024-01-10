@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel Vidal</h1>
 
-Back-end Developer, programming and technology enthusiast, 
+Back end Developer, programming and technology enthusiast, 
 absolutely passionate about solving puzzles, dogs and keyboards.
 
 ### Skills
